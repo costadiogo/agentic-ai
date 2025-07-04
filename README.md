@@ -97,13 +97,13 @@ O sistema integra várias ferramentas especializadas para fornecer informações
 
 ### 1. Clone o repositório
 ```bash
-git clone <repository-url>
-cd AI_Trip_Planner
+git clone https://github.com/costadiogo/agentic-ai.git
+cd agentic-ai
 ```
 
 ### 2. Instale as dependências
 ```bash
-pip install -r requirements.txt
+uv pip install -r requirements.txt
 ```
 
 ### 3. Configure as variáveis de ambiente
